@@ -1,9 +1,9 @@
 ---
-title: "Your Name"
+title: "Eleana Cabello"
 toc: false
 image: "your photo.jpg"
 about:
-  tmplate: trestles
+  template: trestles
   links:
   - text: GitHub
     href: link
@@ -21,10 +21,10 @@ Welcome to my research profile website. I'm a student in the Intro to Reproducib
 
 Replace this section with information about yourself:
 
-- **Name:** Your Name Here
-- **Institution:** Your University
-- **Research Interests:** Add your research interests here
-- **Email:** your.email@university.edu
+- **Name:** Eleana Cabello
+- **Institution:** University of Oklahoma
+- **Research Interests:** Bioinformatics
+- **Email:** eleana-cabello@ou.edu
 
 ## My Research
 
